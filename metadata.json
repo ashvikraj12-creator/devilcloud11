@@ -1,0 +1,7 @@
+{
+  "name": "DEVILCLOUD - Minecraft Server Hosting",
+  "description": "Ultra-fast Minecraft server hosting with custom plan builder, instant setup, Indian UPI payment gateway, Pterodactyl-ready node orchestration, and real-time server management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
